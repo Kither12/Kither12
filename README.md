@@ -3,7 +3,7 @@
 <h1 align="center">Hello, fellow stalkers! 🌺</h1>
 <p align='center'>
   <samp>
-    The name is Kither, a big fan of Kessoku band and competitive programming enjoyer 🚀
+    The name is Kither, a big fan of Kessoku band and a competitive programming enjoyer 🚀
   </samp>
 </p>
 <p align="center">
@@ -24,6 +24,7 @@ Favorite own projects:
   
 - [Tempusia](https://store.steampowered.com/app/2054730/Tempusia/), a time mechanic game made by unity
 - [RustNewsletter](https://github.com/Kither12/Rust-Email-Newsletter/), a newsletter API written in Rust
+- [Arch dotfiles](https://github.com/Kither12/dotfiles), my personal Arch linux dotfiles
 </p>
 <!--
 **Kither12/Kither12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
