@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello, fellow stalker! 🌺</h1>
+<h1 align="center">Hello, fellow stalkers! 🌺</h1>
 <p align='center'>
   <samp>
     The name is Kither, a big fan of Kessoku band and competitive programming enjoyer 🚀
@@ -20,7 +20,7 @@ Hello, I'm Kither. I love doing competitive programming and watching anime. I sp
 </p>
 <br>
 <p>
-Favorite own project:
+Favorite own projects:
   
 - [Tempusia](https://store.steampowered.com/app/2054730/Tempusia/), a time mechanic game made by unity
 - [RustNewsletter](https://github.com/Kither12/Rust-Email-Newsletter/), a newsletter API written in Rust
