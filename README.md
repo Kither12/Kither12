@@ -16,7 +16,7 @@
 </p>
 <hr>
 <p>
-Hello, I'm Kither. I love doing competitive programming and watching anime. I speak C++, C#, Python, JS, Rust and I really love to learn other programming languages as well. Currently, I am interested in blockchain and decentralized things.
+Hello, I'm Kither. I love doing competitive programming. I speak C++, C#, Python, JS, Rust and I really love to learn other programming languages as well. Currently, I am interested in blockchain and decentralized things.
 </p>
 <br>
 <p>
