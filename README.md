@@ -16,7 +16,7 @@
 </p>
 <hr>
 <p>
-Hello, I'm Kither. I love doing competitive programming. I speak C++, C#, Python, JS, Rust and I really love to learn other programming languages as well. 
+Hello, I'm Kither. I love doing competitive programming. I speak C++, C#, Python, JS, Rust, Golang and I really love to learn other programming languages as well. 
 </p>
 <br>
 <p>
